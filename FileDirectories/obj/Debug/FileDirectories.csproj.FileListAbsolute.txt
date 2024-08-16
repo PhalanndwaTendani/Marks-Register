@@ -1,0 +1,10 @@
+T:\FileDirectories\bin\Debug\FileDirectories.exe.config
+T:\FileDirectories\bin\Debug\FileDirectories.exe
+T:\FileDirectories\bin\Debug\FileDirectories.pdb
+T:\FileDirectories\obj\Debug\FileDirectories.csproj.AssemblyReference.cache
+T:\FileDirectories\obj\Debug\FileDirectories.Form1.resources
+T:\FileDirectories\obj\Debug\FileDirectories.Properties.Resources.resources
+T:\FileDirectories\obj\Debug\FileDirectories.csproj.GenerateResource.cache
+T:\FileDirectories\obj\Debug\FileDirectories.csproj.CoreCompileInputs.cache
+T:\FileDirectories\obj\Debug\FileDirectories.exe
+T:\FileDirectories\obj\Debug\FileDirectories.pdb
