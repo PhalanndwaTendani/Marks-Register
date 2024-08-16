@@ -1,0 +1,10 @@
+T:\StudentsFinal\bin\Debug\StudentsFinal.exe.config
+T:\StudentsFinal\bin\Debug\StudentsFinal.exe
+T:\StudentsFinal\bin\Debug\StudentsFinal.pdb
+T:\StudentsFinal\obj\Debug\StudentsFinal.csproj.AssemblyReference.cache
+T:\StudentsFinal\obj\Debug\StudentsFinal.Form1.resources
+T:\StudentsFinal\obj\Debug\StudentsFinal.Properties.Resources.resources
+T:\StudentsFinal\obj\Debug\StudentsFinal.csproj.GenerateResource.cache
+T:\StudentsFinal\obj\Debug\StudentsFinal.csproj.CoreCompileInputs.cache
+T:\StudentsFinal\obj\Debug\StudentsFinal.exe
+T:\StudentsFinal\obj\Debug\StudentsFinal.pdb
